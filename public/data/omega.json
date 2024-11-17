@@ -1,0 +1,122 @@
+[
+    {
+      "id": 1,
+      "name": "Seamaster Diver 300M",
+      "brand": "Omega",
+      "image": "/images/seamaster_diver_300m.jpg",
+      "price": 4500,
+      "description": "A classic diver's watch with a ceramic bezel and professional-grade water resistance."
+    },
+    {
+      "id": 2,
+      "name": "Speedmaster Professional",
+      "brand": "Omega",
+      "image": "/images/speedmaster_professional.jpg",
+      "price": 5000,
+      "description": "The original Moonwatch, a chronograph with an iconic design."
+    },
+    {
+      "id": 3,
+      "name": "Constellation",
+      "brand": "Omega",
+      "image": "/images/constellation.jpg",
+      "price": 3500,
+      "description": "A luxurious timepiece with a distinctive star design on the dial."
+    },
+    {
+      "id": 4,
+      "name": "De Ville Prestige",
+      "brand": "Omega",
+      "image": "/images/de_ville_prestige.jpg",
+      "price": 3200,
+      "description": "Elegant and refined with a classic design and automatic movement."
+    },
+    {
+      "id": 5,
+      "name": "Seamaster Aqua Terra",
+      "brand": "Omega",
+      "image": "/images/seamaster_aqua_terra.jpg",
+      "price": 4200,
+      "description": "A versatile dive watch with a sleek design and anti-magnetic movement."
+    },
+    {
+      "id": 6,
+      "name": "Planet Ocean",
+      "brand": "Omega",
+      "image": "/images/planet_ocean.jpg",
+      "price": 5500,
+      "description": "A robust and stylish dive watch with exceptional water resistance."
+    },
+    {
+      "id": 7,
+      "name": "Speedmaster Reduced",
+      "brand": "Omega",
+      "image": "/images/speedmaster_reduced.jpg",
+      "price": 3800,
+      "description": "A smaller version of the iconic Speedmaster with a streamlined design."
+    },
+    {
+      "id": 8,
+      "name": "Seamaster Planet Ocean",
+      "brand": "Omega",
+      "image": "/images/seamaster_planet_ocean.jpg",
+      "price": 6000,
+      "description": "A professional dive watch designed to withstand the harshest conditions."
+    },
+    {
+      "id": 9,
+      "name": "Aqua Terra 150M",
+      "brand": "Omega",
+      "image": "/images/aqua_terra_150m.jpg",
+      "price": 4500,
+      "description": "A sporty yet elegant design with a water resistance of 150 meters."
+    },
+    {
+      "id": 10,
+      "name": "Seamaster 300M",
+      "brand": "Omega",
+      "image": "/images/seamaster_300m.jpg",
+      "price": 5200,
+      "description": "A modern reimagining of a classic dive watch, combining style and functionality."
+    },
+    {
+      "id": 11,
+      "name": "Constellation Globemaster",
+      "brand": "Omega",
+      "image": "/images/constellation_globemaster.jpg",
+      "price": 6000,
+      "description": "A prestigious watch with a distinctive pie-pan dial design."
+    },
+    {
+      "id": 12,
+      "name": "De Ville Trésor",
+      "brand": "Omega",
+      "image": "/images/de_ville_tresor.jpg",
+      "price": 5200,
+      "description": "An elegant dress watch with a slim profile and timeless appeal."
+    },
+    {
+      "id": 13,
+      "name": "Omega Railmaster",
+      "brand": "Omega",
+      "image": "/images/railmaster.jpg",
+      "price": 4200,
+      "description": "A durable and highly legible watch, originally designed for railroad workers."
+    },
+    {
+      "id": 14,
+      "name": "Speedmaster Moonwatch",
+      "brand": "Omega",
+      "image": "/images/speedmaster_moonwatch.jpg",
+      "price": 6000,
+      "description": "The iconic Moonwatch, worn by astronauts during the Apollo missions."
+    },
+    {
+      "id": 15,
+      "name": "Seamaster Bullhead",
+      "brand": "Omega",
+      "image": "/images/seamaster_bullhead.jpg",
+      "price": 5500,
+      "description": "A bold and unique design with chronograph functionality."
+    }
+]

@@ -1,0 +1,39 @@
+.sidebar {
+  width: 200px; /* Adjust width as needed */
+  background-color: #f3e5f5; /* Light lavender background */
+  padding: 20px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); /* Soft shadow for depth */
+  border-radius: 8px; /* Rounded corners */
+}
+
+.sidebar h2 {
+  margin: 0 0 20px;
+  color: #6a1b9a; /* Deep lavender color for header */
+  font-family: 'Roboto', sans-serif; /* Modern, clean font */
+  font-size: 22px; /* Larger font for prominence */
+}
+
+.sidebar ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.sidebar li {
+  margin: 15px 0; /* Adequate spacing between list items */
+}
+
+.sidebar li a {
+  text-decoration: none; /* Remove underline */
+  color: #8e24aa; /* Soft lavender color for links */
+  font-weight: 500; /* Lighter font weight for links */
+  padding: 12px;
+  display: block; /* Make the entire area clickable */
+  border-radius: 5px; /* Rounded corners for links */
+  transition: background-color 0.3s, color 0.3s; /* Smooth hover effect */
+  font-family: 'Poppins', sans-serif; /* Clean, contemporary font */
+}
+
+.sidebar li a:hover {
+  background-color: #e1bee7; /* Light lavender background on hover */
+  color: #6a1b9a; /* Dark lavender text color on hover */
+}

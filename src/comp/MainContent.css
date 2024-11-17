@@ -1,0 +1,13 @@
+/* Main Content Container */
+.main-content {
+  flex-grow: 1;
+  padding: 20px;
+  background-color: #f3e5f5; /* Light lavender background for a soft feel */
+  border-radius: 8px; /* Rounded corners */
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Soft shadow for depth */
+}
+
+/* Add hover effect to main content section (if needed) */
+.main-content:hover {
+  background-color: #e1bee7; /* Slightly darker lavender on hover */
+}

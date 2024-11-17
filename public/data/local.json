@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Royal Enfield Bear 650",
+    "brand": "Royal Enfield",
+    "price": 429999,
+    "image": "https://stat.overdrive.in/wp-content/odgallery/2022/07/63203_2022_Keeway_K-Light_250V_1_468x263.jpg",
+    "description": "A powerful cruiser bike designed for long-distance rides."
+  },
+  {
+    "id": 2,
+    "name": "Honda SP 125",
+    "brand": "Honda",
+    "price": 219999,
+    "image": "https://stat.overdrive.in/wp-content/odgallery/2022/06/62810_2022_Bajaj_Pulsar_N160_5_468x263.jpg",
+    "description": "A fuel-efficient commuter bike with modern features."
+  },
+  {
+    "id": 3,
+    "name": "TVS Raider 125",
+    "brand": "TVS",
+    "price": 646999,
+    "image": "https://stat.overdrive.in/wp-content/odgallery/2022/07/63200_2022_Suzuki_Katana_1_468x263.jpg",
+    "description": "A sporty and stylish bike for daily commuting."
+  },
+  {
+    "id": 4,
+    "name": "Yamaha MT 15 V2",
+    "brand": "Yamaha",
+    "price": 255999,
+    "image": "https://stat.overdrive.in/wp-content/odgallery/2022/05/62627_2022_Triumph_Tiger_1200_3_468x263.jpg",
+    "description": "A high-performance naked street bike with bold styling."
+  },
+  {
+    "id": 5,
+    "name": "TVS Jupiter",
+    "brand": "TVS",
+    "price": 493999,
+    "image": "https://stat.overdrive.in/wp-content/odgallery/2022/04/61655_2022_BMW_F850_GS_468x263.jpg",
+    "description": "A reliable scooter, great for city commuting."
+  },
+  {
+    "id": 6,
+    "name": "Royal Enfield Hunter 350",
+    "brand": "Royal Enfield",
+    "price": 348999,
+    "image": "https://stat.overdrive.in/wp-content/odgallery/2022/01/61496_2022_Yezdi_Adventure_6_468x263.jpg",
+    "description": "A compact, rugged bike designed for urban rides."
+  },
+  {
+    "id": 7,
+    "name": "Royal Enfield Classic 350",
+    "brand": "Royal Enfield",
+    "price": 124999,
+    "image": "https://stat.overdrive.in/wp-content/odgallery/2021/12/61379_2022_Harley-Davidson_Sportster-S_1_468x263.jpg",
+    "description": "An iconic bike that blends classic style with modern performance."
+  },
+  {
+    "id": 8,
+    "name": "Bajaj Pulsar N125",
+    "brand": "Bajaj",
+    "price": 138999,
+    "image": "https://stat.overdrive.in/wp-content/odgallery/2021/09/60890_2022_TVS_Apache_RR-310-STD_1_468x263.jpg",
+    "description": "A lightweight and powerful bike ideal for beginners."
+  },
+  {
+    "id": 9,
+    "name": "Royal Enfield Meteor 350",
+    "brand": "Royal Enfield",
+    "price": 204999,
+    "image": "https://stat.overdrive.in/wp-content/odgallery/2021/07/60536_2021_Hero_Maestro_Edge_125_468x263.jpg",
+    "description": "A cruiser bike with classic styling and a smooth ride."
+  },
+  {
+    "id": 10,
+    "name": "Honda CB200X",
+    "brand": "Honda",
+    "price": 198999,
+    "image": "https://stat.overdrive.in/wp-content/odgallery/2021/06/59585_2021_Ducati_Panigale_V4_1_468x263.jpg",
+    "description": "A compact adventure bike built for city and trail."
+  },
+  {
+    "id": 11,
+    "name": "TVS Apache RTR 160",
+    "brand": "TVS",
+    "price": 154999,
+    "image": "https://stat.overdrive.in/wp-content/odgallery/2022/01/61496_2022_Yezdi_Adventure_6_468x263.jpg",
+    "description": "A street-focused bike with high performance and agility."
+  },
+  {
+    "id": 12,
+    "name": "Bajaj Avenger Street 160",
+    "brand": "Bajaj",
+    "price": 169999,
+    "image": "https://stat.overdrive.in/wp-content/odgallery/2022/06/62810_2022_Bajaj_Pulsar_N160_5_468x263.jpg",
+    "description": "A cruiser with a relaxed riding posture and comfortable seating."
+  },
+  {
+    "id": 13,
+    "name": "Yamaha FZ S V3",
+    "brand": "Yamaha",
+    "price": 179999,
+    "image": "https://stat.overdrive.in/wp-content/odgallery/2022/07/63203_2022_Keeway_K-Light_250V_1_468x263.jpg",
+    "description": "A muscular bike with street-fighter styling."
+  },
+  {
+    "id": 14,
+    "name": "Royal Enfield Himalayan",
+    "brand": "Royal Enfield",
+    "price": 214999,
+    "image": "https://stat.overdrive.in/wp-content/odgallery/2022/07/63200_2022_Suzuki_Katana_1_468x263.jpg",
+    "description": "An adventure touring bike for off-road expeditions."
+  },
+  {
+    "id": 15,
+    "name": "Hero Splendor Plus",
+    "brand": "Hero",
+    "price": 599999,
+    "image": "https://stat.overdrive.in/wp-content/odgallery/2022/05/62627_2022_Triumph_Tiger_1200_3_468x263.jpg",
+    "description": "A highly popular and fuel-efficient commuter bike."
+  },
+  {
+    "id": 16,
+    "name": "Hero Glamour",
+    "brand": "Hero",
+    "price": 769999,
+    "image": "https://stat.overdrive.in/wp-content/odgallery/2022/04/61655_2022_BMW_F850_GS_468x263.jpg",
+    "description": "A stylish commuter bike with a comfortable ride."
+  },
+  {
+    "id": 17,
+    "name": "Bajaj CT 100",
+    "brand": "Bajaj",
+    "price": 499999,
+    "image": "https://stat.overdrive.in/wp-content/odgallery/2021/06/59585_2021_Ducati_Panigale_V4_1_468x263.jpg",
+    "description": "An affordable and durable bike for daily commuting."
+  },
+  {
+    "id": 18,
+    "name": "TVS Star City Plus",
+    "brand": "TVS",
+    "price": 629999,
+    "image": "https://stat.overdrive.in/wp-content/odgallery/2022/06/62810_2022_Bajaj_Pulsar_N160_5_468x263.jpg",
+    "description": "A commuter bike with modern styling and fuel efficiency."
+  },
+  {
+    "id": 19,
+    "name": "Honda Activa 6G",
+    "brand": "Honda",
+    "price": 749999,
+    "image": "https://stat.overdrive.in/wp-content/odgallery/2021/09/60890_2022_TVS_Apache_RR-310-STD_1_468x263.jpg",
+    "description": "A trusted and popular scooter for city commuting."
+  },
+  {
+    "id": 20,
+    "name": "Yamaha R15 V4",
+    "brand": "Yamaha",
+    "price": 189999,
+    "image": "https://stat.overdrive.in/wp-content/odgallery/2021/12/61379_2022_Harley-Davidson_Sportster-S_1_468x263.jpg",
+    "description": "A race-inspired bike with excellent handling and speed."
+  }
+]

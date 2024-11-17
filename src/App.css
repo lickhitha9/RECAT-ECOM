@@ -1,0 +1,109 @@
+/* App Container */
+.app-container {
+  display: flex;
+  height: 100vh;
+  background-color: #f4f4f9; /* Light lavender background for the whole container */
+}
+
+/* Content Container */
+.content-container {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+
+/* Cart Container */
+.cart {
+  padding: 20px;
+  background-color: #e6e6fa; /* Light lavender for contrast */
+  border: 1px solid #d3d3d3; /* Light lavender-gray border */
+  border-radius: 8px; /* Rounded corners */
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+  margin-top: 20px;
+}
+
+/* Cart Heading */
+.cart h2 {
+  margin-top: 0;
+  color: #6a5acd; /* Lavender color for the heading */
+  font-family: 'Arial', sans-serif; /* Modern font for the heading */
+}
+
+/* Cart Items List */
+.cart ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+/* Cart Item */
+.cart-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+  padding: 10px;
+  background-color: #f3f4f9; /* Very light lavender background for items */
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+/* Hover Effect on Cart Item */
+.cart-item:hover {
+  background-color: #dcd6f7; /* Lavender shade on hover */
+}
+
+/* Cart Item Image */
+.cart-item img {
+  width: 50px;
+  height: auto;
+  border-radius: 5px;
+}
+
+/* Cart Item Text */
+.cart-item div {
+  margin-left: 10px;
+  color: #495057; /* Dark gray for text */
+  font-weight: bold;
+}
+
+/* Cart Item Price and Additional Details */
+.cart-item div span {
+  color: #6c757d; /* Light gray for price and other details */
+  font-weight: normal;
+}
+
+/* Adjust the spacing and text colors for better visibility */
+.cart-item div strong {
+  color: #6a5acd; /* Lavender for the item name */
+}
+
+/* Button Styles */
+.checkout-button, .proceed-button {
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+/* Checkout Button */
+.checkout-button {
+  background-color: #8a7ff4; /* Lavender blue for checkout */
+  color: white;
+}
+
+.checkout-button:hover {
+  background-color: #6f5ec5; /* Darker lavender blue on hover */
+}
+
+/* Proceed Button */
+.proceed-button {
+  background-color: #b19cd9; /* Soft lavender green for proceed */
+  color: white;
+}
+
+.proceed-button:hover {
+  background-color: #9b7fd0; /* Darker lavender green on hover */
+}

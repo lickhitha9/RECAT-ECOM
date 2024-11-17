@@ -1,0 +1,123 @@
+/* Product List Container */
+.product-list {
+  padding: 20px;
+  background-color: #f3e5f5; /* Light lavender background for elegance */
+}
+
+/* Heading for selecting brand */
+.product-list h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #6a1b9a; /* Deep lavender color for heading */
+  font-family: 'Roboto', sans-serif; /* Clean, modern font */
+  font-size: 24px; /* Larger heading font */
+}
+
+/* Brand Selection Container */
+.brand-list {
+  display: flex; /* Flexbox for a row layout */
+  justify-content: space-evenly; /* Even space between the items */
+  align-items: center; /* Center items vertically */
+  gap: 20px; /* Space between the items */
+  margin-bottom: 20px; /* Space below the brand images */
+}
+
+/* Individual Brand Item Styling */
+.brand-item {
+  text-align: center;
+  width: 150px; /* Fixed width for the brand item */
+  max-width: 150px; /* Maximum width for each item */
+  cursor: pointer;
+  transition: transform 0.3s ease-in-out; /* Smooth animation for hover effect */
+}
+
+.brand-item img {
+  width: 100%; /* Image takes full width of its container */
+  height: 150px; /* Fixed height */
+  object-fit: contain; /* Maintain aspect ratio */
+  border-radius: 8px; /* Rounded corners */
+  filter: grayscale(100%); /* Black & White initially */
+  transition: filter 0.3s ease-in-out, transform 0.3s ease-in-out; /* Smooth transitions */
+  opacity: 0.8; /* Slight opacity initially */
+}
+
+/* Hover effect for Brand Image */
+.brand-item img:hover {
+  filter: grayscale(0%); /* Make the image colorful on hover */
+  transform: scale(1.1); /* Slightly enlarge the image on hover */
+  opacity: 1; /* Full opacity on hover */
+}
+
+/* Styling for Product List (Product Items) */
+.product-list ul {
+  list-style-type: none;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); /* 4 products per row */
+  gap: 20px; /* More space between items */
+}
+
+/* Styling for Individual Product Items */
+.product-list li {
+  background-color: white;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 15px;
+  text-align: center;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s, box-shadow 0.3s; /* Animation on hover */
+  cursor: pointer;
+}
+
+/* Hover effect for Product Item */
+.product-list li:hover {
+  transform: scale(1.05); /* Slightly enlarge on hover */
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2); /* Deeper shadow on hover */
+}
+
+/* Styling for Product Image inside Product Item */
+.product-list li img {
+  width: 150px; /* Fixed width for product image */
+  height: 150px; /* Fixed height for product image */
+  object-fit: contain; /* Maintain aspect ratio */
+  border-radius: 8px; /* Rounded corners for image */
+  transition: transform 0.3s; /* Smooth transition for image scaling */
+}
+
+/* Hover effect for Product Image */
+.product-list li:hover img {
+  transform: scale(1.1); /* Enlarge image on hover */
+}
+
+/* Product Name Styling */
+.product-list h3 {
+  margin: 10px 0;
+  font-size: 1.2em;
+  color: #6a1b9a; /* Deep lavender color for product name */
+  font-family: 'Roboto', sans-serif; /* Consistent modern font */
+}
+
+/* Product Description Styling */
+.product-list p {
+  margin: 5px 0;
+  color: #555; /* Dark gray text for product details */
+}
+
+/* Show More Button Styling */
+.show-more {
+  display: block;
+  margin: 20px auto;
+  padding: 10px 20px;
+  background-color: #6a1b9a; /* Lavender color for button */
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s; /* Smooth transition for button hover */
+  font-family: 'Poppins', sans-serif; /* Modern button font */
+}
+
+/* Hover effect for Show More Button */
+.show-more:hover {
+  background-color: #9c4d9f; /* Darker lavender background on hover */
+}

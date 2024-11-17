@@ -1,0 +1,122 @@
+[
+    {
+      "id": 1,
+      "name": "Hybrid HR",
+      "brand": "Fossil",
+      "image": "/images/hybrid_hr.jpg",
+      "price": 180,
+      "description": "A hybrid smartwatch with analog design and smart features."
+    },
+    {
+      "id": 2,
+      "name": "Neely",
+      "brand": "Fossil",
+      "image": "/images/neely.jpg",
+      "price": 130,
+      "description": "A stylish watch with a minimalist design, perfect for everyday wear."
+    },
+    {
+      "id": 3,
+      "name": "Grant",
+      "brand": "Fossil",
+      "image": "/images/grant.jpg",
+      "price": 150,
+      "description": "A timeless analog watch with Roman numerals and a vintage look."
+    },
+    {
+      "id": 4,
+      "name": "Q Marshal",
+      "brand": "Fossil",
+      "image": "/images/q_marshall.jpg",
+      "price": 220,
+      "description": "A smartwatch with a sleek design and fitness tracking capabilities."
+    },
+    {
+      "id": 5,
+      "name": "Q Commuter",
+      "brand": "Fossil",
+      "image": "/images/q_commuter.jpg",
+      "price": 250,
+      "description": "A smartwatch designed for those always on the go, with notifications and health tracking."
+    },
+    {
+      "id": 6,
+      "name": "Fossil Men's Machine",
+      "brand": "Fossil",
+      "image": "/images/mens_machine.jpg",
+      "price": 160,
+      "description": "A bold and masculine watch with a large face and robust design."
+    },
+    {
+      "id": 7,
+      "name": "Fossil Minimalist",
+      "brand": "Fossil",
+      "image": "/images/minimalist.jpg",
+      "price": 130,
+      "description": "A simple, clean design with an elegant look for any occasion."
+    },
+    {
+      "id": 8,
+      "name": "Fossil Stella",
+      "brand": "Fossil",
+      "image": "/images/stella.jpg",
+      "price": 140,
+      "description": "A chic watch with a refined look, ideal for a night out."
+    },
+    {
+      "id": 9,
+      "name": "Fossil Townsman",
+      "brand": "Fossil",
+      "image": "/images/townsman.jpg",
+      "price": 180,
+      "description": "A sophisticated timepiece with a refined design and classic feel."
+    },
+    {
+      "id": 10,
+      "name": "Fossil Q Venture",
+      "brand": "Fossil",
+      "image": "/images/q_venture.jpg",
+      "price": 250,
+      "description": "A smartwatch with advanced fitness tracking and connectivity features."
+    },
+    {
+      "id": 11,
+      "name": "Fossil Carlie",
+      "brand": "Fossil",
+      "image": "/images/carlie.jpg",
+      "price": 120,
+      "description": "A delicate, feminine watch with a minimalist design."
+    },
+    {
+      "id": 12,
+      "name": "Fossil Nate",
+      "brand": "Fossil",
+      "image": "/images/nate.jpg",
+      "price": 170,
+      "description": "A rugged, military-inspired design with bold styling."
+    },
+    {
+      "id": 13,
+      "name": "Fossil Jacqueline",
+      "brand": "Fossil",
+      "image": "/images/jacqueline.jpg",
+      "price": 160,
+      "description": "A refined and elegant watch with a slim profile."
+    },
+    {
+      "id": 14,
+      "name": "Fossil Original Boyfriend",
+      "brand": "Fossil",
+      "image": "/images/original_boyfriend.jpg",
+      "price": 130,
+      "description": "A classic watch with a unisex design, perfect for everyday wear."
+    },
+    {
+      "id": 15,
+      "name": "Fossil Evie",
+      "brand": "Fossil",
+      "image": "/images/evie.jpg",
+      "price": 150,
+      "description": "A charming and fashionable watch, perfect for all occasions."
+    }
+]

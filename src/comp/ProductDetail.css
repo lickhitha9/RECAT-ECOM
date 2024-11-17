@@ -1,0 +1,63 @@
+/* Product Detail Container */
+.product-detail {
+  padding: 20px;
+  background-color: #f3e5f5; /* Light lavender background for elegance */
+  border-radius: 8px; /* Rounded corners */
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+/* Detail Container (Image + Info) */
+.detail-container {
+  display: flex;
+  align-items: center; /* Align items vertically */
+  gap: 20px; /* Space between image and details */
+}
+
+/* Product Image Styling */
+.product-image {
+  width: 300px; /* Set width of the image */
+  height: auto; /* Maintain aspect ratio */
+  border-radius: 8px; /* Rounded corners for the image */
+  transition: transform 0.3s; /* Smooth scaling on hover */
+  object-fit: contain; /* Ensure proper fit of the image */
+}
+
+.product-image:hover {
+  transform: scale(1.05); /* Slightly enlarge image on hover */
+}
+
+/* Product Info Styling */
+.product-info {
+  flex: 1; /* Take up remaining space */
+}
+
+.product-info h2 {
+  color: #6a1b9a; /* Lavender color for product name */
+  margin-bottom: 10px;
+  font-family: 'Roboto', sans-serif; /* Modern and clean font */
+  font-size: 24px; /* Larger font size for better visibility */
+}
+
+.product-info p {
+  margin: 5px 0;
+  color: #555; /* Slightly darker gray for product details */
+  font-family: 'Poppins', sans-serif; /* Clean and modern font */
+}
+
+/* Add to Cart Button Styling */
+.add-to-cart {
+  margin-top: 20px;
+  padding: 10px 15px;
+  background-color: #6a1b9a; /* Lavender color for the button */
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.2s; /* Smooth transition */
+  font-family: 'Poppins', sans-serif; /* Consistent modern font */
+}
+
+.add-to-cart:hover {
+  background-color: #9c4d9f; /* Darker lavender shade on hover */
+  transform: translateY(-2px); /* Lift effect on hover */
+}

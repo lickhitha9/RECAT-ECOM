@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Submariner",
+    "brand": "Rolex",
+    "image": "/images/submariner.jpg",
+    "price": 10000,
+    "description": "A classic diver's watch with unmatched precision."
+  },
+  {
+    "id": 2,
+    "name": "Daytona",
+    "brand": "Rolex",
+    "image": "/images/daytona.jpg",
+    "price": 12000,
+    "description": "A chronograph designed for motorsport enthusiasts."
+  },
+  {
+    "id": 3,
+    "name": "Datejust",
+    "brand": "Rolex",
+    "image": "/images/datejust.jpg",
+    "price": 9500,
+    "description": "A timeless design with date display and elegant aesthetics."
+  },
+  {
+    "id": 4,
+    "name": "Explorer",
+    "brand": "Rolex",
+    "image": "/images/explorer.jpg",
+    "price": 8000,
+    "description": "Built for adventurers, this watch is as rugged as it is stylish."
+  },
+  {
+    "id": 5,
+    "name": "Oyster Perpetual",
+    "brand": "Rolex",
+    "image": "/images/oyster_perpetual.jpg",
+    "price": 7000,
+    "description": "A simple yet elegant design with perpetual movement."
+  },
+  {
+    "id": 6,
+    "name": "GMT-Master II",
+    "brand": "Rolex",
+    "image": "/images/gmt_master_ii.jpg",
+    "price": 10500,
+    "description": "Perfect for travelers, with dual time zone functionality."
+  },
+  {
+    "id": 7,
+    "name": "Yacht-Master",
+    "brand": "Rolex",
+    "image": "/images/yacht_master.jpg",
+    "price": 11500,
+    "description": "A luxury dive watch designed for sailing enthusiasts."
+  },
+  {
+    "id": 8,
+    "name": "Sky-Dweller",
+    "brand": "Rolex",
+    "image": "/images/sky_dweller.jpg",
+    "price": 13000,
+    "description": "A sophisticated design with dual time zone and annual calendar."
+  },
+  {
+    "id": 9,
+    "name": "Cellini",
+    "brand": "Rolex",
+    "image": "/images/cellini.jpg",
+    "price": 9000,
+    "description": "Elegant dress watch with refined and classic styling."
+  },
+  {
+    "id": 10,
+    "name": "Sea-Dweller",
+    "brand": "Rolex",
+    "image": "/images/sea_dweller.jpg",
+    "price": 11000,
+    "description": "Designed for extreme depths, a true professional diver's tool."
+  },
+  {
+    "id": 11,
+    "name": "Air-King",
+    "brand": "Rolex",
+    "image": "/images/air_king.jpg",
+    "price": 7000,
+    "description": "A tribute to aviation, with a clean, classic design."
+  },
+  {
+    "id": 12,
+    "name": "Milgauss",
+    "brand": "Rolex",
+    "image": "/images/milgauss.jpg",
+    "price": 9500,
+    "description": "Engineered to withstand magnetic fields, designed for scientists."
+  },
+  {
+    "id": 13,
+    "name": "Cosmograph",
+    "brand": "Rolex",
+    "image": "/images/cosmograph.jpg",
+    "price": 12500,
+    "description": "Iconic chronograph with a racing-inspired design."
+  },
+  {
+    "id": 14,
+    "name": "Deepsea",
+    "brand": "Rolex",
+    "image": "/images/deepsea.jpg",
+    "price": 12000,
+    "description": "A professional diver's watch built to withstand the pressures of the deep sea."
+  },
+  {
+    "id": 15,
+    "name": "Pearlmaster",
+    "brand": "Rolex",
+    "image": "/images/pearlmaster.jpg",
+    "price": 15000,
+    "description": "A luxurious watch featuring diamonds and other precious materials."
+  }
+]

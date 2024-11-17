@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "G-Shock DW5600",
+    "brand": "Casio",
+    "image": "/images/gshock_dw5600.jpg",
+    "price": 99,
+    "description": "A rugged and shock-resistant digital watch."
+  },
+  {
+    "id": 2,
+    "name": "G-Shock GA2100",
+    "brand": "Casio",
+    "image": "/images/gshock_ga2100.jpg",
+    "price": 120,
+    "description": "A sleek design with Carbon Core Guard for enhanced durability."
+  },
+  {
+    "id": 3,
+    "name": "F91W",
+    "brand": "Casio",
+    "image": "/images/f91w.jpg",
+    "price": 20,
+    "description": "Classic digital watch with a timeless design."
+  },
+  {
+    "id": 4,
+    "name": "Edifice EFV-500",
+    "brand": "Casio",
+    "image": "/images/edifice_efv500.jpg",
+    "price": 150,
+    "description": "A stylish analog watch with a sporty and sophisticated look."
+  },
+  {
+    "id": 5,
+    "name": "Fossil Hybrid HR",
+    "brand": "Casio",
+    "image": "/images/fossil_hybrid_hr.jpg",
+    "price": 180,
+    "description": "A hybrid smartwatch combining analog style and modern tech."
+  },
+  {
+    "id": 6,
+    "name": "Casio Pro Trek PRW-3500",
+    "brand": "Casio",
+    "image": "/images/casio_pro_trek_prw3500.jpg",
+    "price": 350,
+    "description": "An outdoor watch with a solar-powered battery and altimeter."
+  },
+  {
+    "id": 7,
+    "name": "G-Shock Rangeman",
+    "brand": "Casio",
+    "image": "/images/gshock_rangeman.jpg",
+    "price": 200,
+    "description": "Designed for tough environments, equipped with triple sensors."
+  },
+  {
+    "id": 8,
+    "name": "Casio F108W",
+    "brand": "Casio",
+    "image": "/images/casio_f108w.jpg",
+    "price": 30,
+    "description": "A simple, reliable, and affordable digital watch."
+  },
+  {
+    "id": 9,
+    "name": "Casio A158WA",
+    "brand": "Casio",
+    "image": "/images/casio_a158wa.jpg",
+    "price": 40,
+    "description": "Classic retro design with a metal band."
+  },
+  {
+    "id": 10,
+    "name": "Casio G-Shock Frogman",
+    "brand": "Casio",
+    "image": "/images/gshock_frogman.jpg",
+    "price": 300,
+    "description": "A professional diver's watch with ISO certification."
+  },
+  {
+    "id": 11,
+    "name": "Casio World Time",
+    "brand": "Casio",
+    "image": "/images/casio_world_time.jpg",
+    "price": 50,
+    "description": "Features multiple time zone settings and a sturdy design."
+  },
+  {
+    "id": 12,
+    "name": "Casio MRW200H",
+    "brand": "Casio",
+    "image": "/images/casio_mrw200h.jpg",
+    "price": 30,
+    "description": "A durable and affordable analog watch with a water-resistant design."
+  },
+  {
+    "id": 13,
+    "name": "Casio MTP-V002D",
+    "brand": "Casio",
+    "image": "/images/casio_mtp_v002d.jpg",
+    "price": 40,
+    "description": "A classic analog watch with a simple design."
+  },
+  {
+    "id": 14,
+    "name": "Casio G-Shock Mudman",
+    "brand": "Casio",
+    "image": "/images/gshock_mudman.jpg",
+    "price": 220,
+    "description": "Engineered to resist mud and dirt, perfect for outdoor adventures."
+  },
+  {
+    "id": 15,
+    "name": "Casio Path Finder",
+    "brand": "Casio",
+    "image": "/images/casio_path_finder.jpg",
+    "price": 250,
+    "description": "A rugged outdoor watch with a built-in compass, altimeter, and thermometer."
+  }
+]
